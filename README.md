@@ -8,7 +8,7 @@ This project implements a classic 2D platforming experience with player movement
 
 ## 📸 Gameplay Screenshot
 
-![Gameplay Screenshot](./screenshot.jpg)
+![Gameplay Screenshot](./Screenshot.png)
 
 ## 🛠️ Technology Stack
 
