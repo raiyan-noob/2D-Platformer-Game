@@ -56,7 +56,7 @@ cd 2D-Platformer-Game
 ## 🔗 Links
 
 - **Repository:** https://github.com/raiyan-noob/2D-Platformer-Game
-- **Developer:** https://github.com/raiyan-noob
+- **Developer:** https://github.com/raiyan-noob, https://github.com/azmaeenmahtab, https://github.com/Rejwanul23
 
 ## 👨‍💻 Author
 
