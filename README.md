@@ -6,6 +6,10 @@ A desktop 2D platformer game developed in C++ using the iGraphics framework.
 
 This project implements a classic 2D platforming experience with player movement, level navigation, animated game states, and keyboard-based interaction. It was developed as a graphics/game-development project to practice C++, event handling, game-state management, and 2D rendering.
 
+## 📸 Gameplay Screenshot
+
+![Gameplay Screenshot](./screenshot.jpg)
+
 ## 🛠️ Technology Stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -20,12 +24,6 @@ This project implements a classic 2D platforming experience with player movement
 - 🖼️ Sprite and image-based graphics
 - ⌨️ Keyboard controls
 - 🧩 C++ game logic and event handling
-
-## 📸 Screenshot
-
-> Add a gameplay screenshot here when available:
->
-> `![Gameplay Screenshot](./screenshot.png)`
 
 ## 📦 Dependencies
 
