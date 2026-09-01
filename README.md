@@ -1,4 +1,4 @@
-# 🎮 2D Platformer Game
+# 🎮 Debugging AUST
 
 A desktop 2D platformer game developed in C++ using the iGraphics framework.
 
